@@ -17,7 +17,7 @@ This repo is not your average polished tutorial — it's a real-life log of tria
 ## 📖 Blog Post
 
 Want the full story with context and chaos?  
-👉 [Read the full blog on Medium]((https://medium.com/@maxxrawat007/from-ssl-hell-to-log-heaven-my-brutal-elk-stack-journey-8defbe65c5ea))  
+👉 [Read the full blog on Medium](https://medium.com/@maxxrawat007/from-ssl-hell-to-log-heaven-my-brutal-elk-stack-journey-8defbe65c5ea) 
 > *From Broken SSL to ELK Bliss: Why Most People Struggle Setting Up SOC Labs (and How I Survived)*
 
 ---
